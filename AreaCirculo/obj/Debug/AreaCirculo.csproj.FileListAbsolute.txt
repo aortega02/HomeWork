@@ -1,0 +1,6 @@
+C:\Users\mchavez\Documents\Visual Studio 2015\Projects\HomeWork\AreaCirculo\bin\Debug\AreaCirculo.exe.config
+C:\Users\mchavez\Documents\Visual Studio 2015\Projects\HomeWork\AreaCirculo\bin\Debug\AreaCirculo.exe
+C:\Users\mchavez\Documents\Visual Studio 2015\Projects\HomeWork\AreaCirculo\bin\Debug\AreaCirculo.pdb
+C:\Users\mchavez\Documents\Visual Studio 2015\Projects\HomeWork\AreaCirculo\obj\Debug\AreaCirculo.csprojResolveAssemblyReference.cache
+C:\Users\mchavez\Documents\Visual Studio 2015\Projects\HomeWork\AreaCirculo\obj\Debug\AreaCirculo.exe
+C:\Users\mchavez\Documents\Visual Studio 2015\Projects\HomeWork\AreaCirculo\obj\Debug\AreaCirculo.pdb
